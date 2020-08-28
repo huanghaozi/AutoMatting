@@ -3,6 +3,8 @@
 
 软件安装包下载地址：[蓝奏云](https://huanghaozi.lanzous.com/i6iWrg51umj)
 
+软件过程介绍：[博客](https://huanghaozi.cn/index.php/archives/245/)
+
 - 支持格式：**jpg/png/JPG/PNG**
 - 支持**单文件**/**文件夹批量**抠图
 - 需要在removebg官网注册账号，将其api-key填入软件的token输入框中，每个key每月有50次使用机会
