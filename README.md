@@ -1,7 +1,7 @@
 # AutoMatting
 用Qt+OpenCV写的自动抠图的软件，使用**removebg**提供的api接口，可生成高清图
 
-软件安装包下载地址：[蓝奏云](https://huanghaozi.lanzous.com/i6iWrg51umj)
+软件安装包下载地址：[蓝奏云(Win)](https://huanghaozi.lanzous.com/i6iWrg51umj)  [蓝奏云(Mac)](https://huanghaozi.lanzous.com/iKg59g9zdxg)
 
 软件过程介绍：[博客](https://huanghaozi.cn/index.php/archives/245/)
 
